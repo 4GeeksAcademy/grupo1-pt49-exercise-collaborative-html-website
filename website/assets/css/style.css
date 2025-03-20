@@ -5,6 +5,15 @@ body{
     height: 1px;
     color:gray;    
 }
+.titulo{
+    font-size:9cqmax ;
+    font-weight: 325;
+}
+.subtitulo{
+    font-size: 6cqmax ;
+    font-weight: 325;
+}
+
 .Project{
     color: rgb(82, 126, 210);
 }
