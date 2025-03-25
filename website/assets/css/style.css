@@ -1,7 +1,25 @@
-.container-tagline{
-    
-    background-image: url("../img/bg.jpg");
-    height: 600px;
-    background-position: bottom;
-    background-size: cover;
+body{
+    background: white;
+}
+.linea-first-heading{
+    height: 1px;
+    color:gray;    
+}
+.titulo{
+    font-size:9cqmax ;
+    font-weight: 325;
+}
+.subtitulo{
+    font-size: 6cqmax ;
+    font-weight: 325;
+}
+
+.Project{
+    color: rgb(82, 126, 210);
+}
+.cuerpo{
+    padding: 16px 0px 16px 0px;
+}
+.card-text{
+    font-size: small;
 }
